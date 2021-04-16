@@ -1,0 +1,6 @@
+[[redirects]]
+  from = "https://crowdanswerbot.netlify.app"
+  to = "https://crowdanswerbot.netlify.app/arc-sw.js"
+  status = 200
+  force = true
+  headers = {X-From = "Netlify"}
